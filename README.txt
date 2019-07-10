@@ -1,1 +1,1 @@
-this repository is for store my tecnical document
+this repository is for store my tecnical document.
